@@ -35,7 +35,7 @@
     padding: 50px;
 }
 
-.persona-wrapper {
+.prototype-wrapper {
     font-family: 'Montserrat', sans-serif;
     font-weight: 200;
     line-height: 22px;
@@ -51,7 +51,7 @@
     padding: 50px;
 }
 
-.storyboard-wrapper {
+.website-wrapper {
     font-family: 'Montserrat', sans-serif;
     font-weight: 200;
     line-height: 22px;
@@ -79,10 +79,15 @@
     padding: 5px;
 }
 
-.persona {
+img {
     max-width: 100%;
+    margin-top: 20px;
 }
 
-.persona-text {
-    margin-top: 0px;
+.mobile {
+    max-width: 30%;
+}
+
+.prototype {
+    max-width: 70%;
 }
